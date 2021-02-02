@@ -28,18 +28,7 @@ Data on active & prior home listings in New York City was scraped from Redfin us
 
 ![image](https://user-images.githubusercontent.com/78432605/106639247-c6aecc00-6552-11eb-8189-070eab426215.png)
 ![image](https://user-images.githubusercontent.com/78432605/106639254-c9112600-6552-11eb-8187-d193c80b1ae6.png)
-
-
-
-
-
-
-
-
-
-
-
-
+<br/>
 ![image](https://user-images.githubusercontent.com/78432605/106639263-cadae980-6552-11eb-9662-6c6ec5c0b706.png)
 
 
