@@ -1,12 +1,14 @@
 # Redfin Scraping (Web-Analytics)
 
+Information scraped:
+
 ![image](https://user-images.githubusercontent.com/78432605/106639704-3fae2380-6553-11eb-9a6f-9b65842c680b.png)
 ![image](https://user-images.githubusercontent.com/78432605/106639713-4177e700-6553-11eb-9274-27f97ca477bd.png)
 ![image](https://user-images.githubusercontent.com/78432605/106639719-4341aa80-6553-11eb-99a9-a0fa1e949b0b.png)
 ![image](https://user-images.githubusercontent.com/78432605/106639729-450b6e00-6553-11eb-963c-1afd58135496.png)
 
 
-
+Results:
 ![image](https://user-images.githubusercontent.com/78432605/106639206-b8f94680-6552-11eb-8ef2-5b35fcbb20be.png)
 ![image](https://user-images.githubusercontent.com/78432605/106639222-bd256400-6552-11eb-8329-7bea42e13e33.png)
 ![image](https://user-images.githubusercontent.com/78432605/106639247-c6aecc00-6552-11eb-8189-070eab426215.png)
