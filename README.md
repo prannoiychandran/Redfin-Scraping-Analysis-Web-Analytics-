@@ -1,5 +1,10 @@
 # Redfin Scraping (Web-Analytics)
 
+
+Data on active & prior home listings in New York City was scraped from Redfin using Selenium and Webdriver. A classifier was built to classify listings as a "good listing" (binary variable). Plots were also used to uncover price trends and derive recommendations for prospective developers and landlords to maximize profits and optimize building characteristics. 
+
+
+
 Information scraped:
 
 ![image](https://user-images.githubusercontent.com/78432605/106639704-3fae2380-6553-11eb-9a6f-9b65842c680b.png)
