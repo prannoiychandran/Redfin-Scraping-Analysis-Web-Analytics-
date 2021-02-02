@@ -9,6 +9,8 @@ Information scraped:
 
 
 Results:
+
+
 ![image](https://user-images.githubusercontent.com/78432605/106639206-b8f94680-6552-11eb-8ef2-5b35fcbb20be.png)
 ![image](https://user-images.githubusercontent.com/78432605/106639222-bd256400-6552-11eb-8329-7bea42e13e33.png)
 ![image](https://user-images.githubusercontent.com/78432605/106639247-c6aecc00-6552-11eb-8189-070eab426215.png)
