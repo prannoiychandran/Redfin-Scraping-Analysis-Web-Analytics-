@@ -19,7 +19,7 @@ Finally, recommendations were derived for prospective developers and landlords t
 
 
 
-**Results**
+**Exploratory Analysis**
 
 
 ![image](https://user-images.githubusercontent.com/78432605/106639206-b8f94680-6552-11eb-8ef2-5b35fcbb20be.png)
@@ -43,7 +43,8 @@ Finally, recommendations were derived for prospective developers and landlords t
 ![image](https://user-images.githubusercontent.com/78432605/106639314-d8906f00-6552-11eb-8286-dde2028e6c69.png)
 ![image](https://user-images.githubusercontent.com/78432605/106639323-da5a3280-6552-11eb-98cf-18a139182a9d.png)
 ![image](https://user-images.githubusercontent.com/78432605/106639345-dfb77d00-6552-11eb-90d8-5bebd990829e.png)
-
+<br/>
+**Results**
 
 ![image](https://user-images.githubusercontent.com/78432605/106640089-a0d5f700-6553-11eb-80e7-42f89d73b1ce.png)
 <br/>
