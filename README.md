@@ -35,6 +35,7 @@ Finally, recommendations were derived for prospective developers and landlords t
 ![image](https://user-images.githubusercontent.com/78432605/106639277-ce6e7080-6552-11eb-91cc-850b1ac4a77f.png)
 ![image](https://user-images.githubusercontent.com/78432605/106639284-d0383400-6552-11eb-993a-e1c75a49ba61.png)
 ![image](https://user-images.githubusercontent.com/78432605/106639295-d29a8e00-6552-11eb-89d7-8eeb6b9b9962.png)
+<br/>
 ![image](https://user-images.githubusercontent.com/78432605/106639304-d4645180-6552-11eb-8344-38e7fa4503c0.png)
 
 
