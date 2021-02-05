@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup # to grab the html elements we need
 import pandas as pd # to create dataframe
 from selenium import webdriver #use selenium to avoid website’s anti-scraping
 from selenium.common.exceptions import NoSuchElementException
-path = 'C:\\Users\\yugem\\webdrivers\\chromedriver.exe'
+path = 'C:\\Users\\prannoiychandran\\webdrivers\\chromedriver.exe'
 browser = webdriver.Chrome(path)
 #In this data, we mainly focus on data in New York State
 browser.get('https://www.redfin.com/state/New-York')
