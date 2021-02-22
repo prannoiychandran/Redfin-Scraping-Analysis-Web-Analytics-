@@ -9,8 +9,7 @@ Finally, recommendations were derived for prospective developers and landlords t
 
 
 
-**Information scraped from Redfin**
-
+## Information scraped from Redfin
 ![image](https://user-images.githubusercontent.com/78432605/106639704-3fae2380-6553-11eb-9a6f-9b65842c680b.png)
 ![image](https://user-images.githubusercontent.com/78432605/106639713-4177e700-6553-11eb-9274-27f97ca477bd.png)
 ![image](https://user-images.githubusercontent.com/78432605/106639719-4341aa80-6553-11eb-99a9-a0fa1e949b0b.png)
@@ -19,9 +18,7 @@ Finally, recommendations were derived for prospective developers and landlords t
 
 
 
-**Exploratory Analysis**
-
-
+## Exploratory Analysis
 ![image](https://user-images.githubusercontent.com/78432605/106639206-b8f94680-6552-11eb-8ef2-5b35fcbb20be.png)
 <br/>
 ![image](https://user-images.githubusercontent.com/78432605/106639222-bd256400-6552-11eb-8329-7bea42e13e33.png)
@@ -44,8 +41,7 @@ Finally, recommendations were derived for prospective developers and landlords t
 ![image](https://user-images.githubusercontent.com/78432605/106639323-da5a3280-6552-11eb-98cf-18a139182a9d.png)
 ![image](https://user-images.githubusercontent.com/78432605/106639345-dfb77d00-6552-11eb-90d8-5bebd990829e.png)
 <br/>
-**Results**
-
+## Results
 ![image](https://user-images.githubusercontent.com/78432605/106640089-a0d5f700-6553-11eb-80e7-42f89d73b1ce.png)
 <br/>
 ![image](https://user-images.githubusercontent.com/78432605/106640095-a29fba80-6553-11eb-9e91-71d5fc426a3b.png)
