@@ -1,4 +1,4 @@
-# Redfin Scraping (Web Analytics)
+# NYC Real Estate Profitability Trends: Scraped Redfin Listings
 
 
 Data on active & sold home listings in New York City was scraped from Redfin using Selenium and Webdriver. A classifier was built to classify listings under the binary variable "good listing". Price trends were uncovered using plots during exploratory analysis. 
